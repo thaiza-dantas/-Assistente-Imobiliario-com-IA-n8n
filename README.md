@@ -384,7 +384,7 @@ Este projeto é uma **simulação desenvolvida para fins de portfólio**. Embora
 **Thaiza**
 Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedora backend (Python/FastAPI)
 
-- GitHub: [github.com/thaiza-d](https://github.com/thaiza-d)
+- GitHub: [github.com/thaiza-dantas](https://github.com/thaiza-dantas)
 
 ---
 
